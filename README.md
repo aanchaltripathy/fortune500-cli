@@ -1,21 +1,25 @@
-# 📊 Fortune 500 CLI Scraper
+# 🏢 Fortune 500 CLI
 
-A simple Python CLI tool to fetch and export the Fortune Global 500 list from [us500.com](https://us500.com). Saves data as an Excel or CSV file with your selected fields.
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+A simple Python CLI tool to fetch and export the **latest Fortune 500 company data** from the web. Exported data includes company name, rank, revenue, profits, and more in Excel format.
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 🔄 Pulls data from live Fortune 500 JSON API
-- 💾 Exports to Excel (`.xlsx`) or CSV
-- 🛠 Choose your own fields (rank, country, company, etc.)
-- ⚡ Fast and lightweight
+- 📊 Retrieves current Fortune 500 data
+- 🧾 Exports to clean Excel file (`.xlsx`)
+- 🔍 Fetches all available company columns
+- ⚡ Fast and easy to use CLI interface
 
 ---
 
 ## 📦 Installation
 
+1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/fortune500-cli.git
+git clone https://github.com/aanchaltripathy/fortune500-cli.git
 cd fortune500-cli
-pip install -r requirements.txt
