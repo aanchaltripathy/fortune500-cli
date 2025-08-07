@@ -16,6 +16,11 @@ A simple Python CLI tool to fetch and export the **latest Fortune 500 company da
 - ⚡ Fast and easy to use CLI interface
 
 ---
+## 📸 Preview
+
+![Excel Output](preview/screenshot.png)
+
+
 
 ## 📦 Installation
 
@@ -23,3 +28,6 @@ A simple Python CLI tool to fetch and export the **latest Fortune 500 company da
 ```bash
 git clone https://github.com/aanchaltripathy/fortune500-cli.git
 cd fortune500-cli
+
+
+
